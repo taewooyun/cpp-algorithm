@@ -1,9 +1,13 @@
-##macos
+## macos
 #실행 파일
 main
 .DS_Store
 
-##window
+## window
 #빌드 설정 및 실행 파일
 *.exe
 /.vscode
+
+
+## 개인 설정
+/templete
